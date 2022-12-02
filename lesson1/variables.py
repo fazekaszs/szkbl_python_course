@@ -9,5 +9,5 @@ my_text = "Hello!"  # string variable
 true = False  # boolean variable
 dog_is_tall = true
 hello_vilag = "Hello"  # string variable
-Hello_vilag = "Menny a kukumba"  # different, then hello_vilag
+Hello_vilag = "Menny a kukumba"  # different than hello_vilag
 no_way_hosay = None  # None variable
