@@ -26,7 +26,7 @@ print("The value of my variable is:", my_value)  # still an int
 print("The type of my variable is:", type(my_value))
 
 my_value /= 3  # becomes a float, my_value is 7.0
-print("The value of my variable is:", my_value)  # still an int
+print("The value of my variable is:", my_value)
 print("The type of my variable is:", type(my_value))
 
 my_value **= 2  # also works with exponentiation
