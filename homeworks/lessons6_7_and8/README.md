@@ -30,7 +30,7 @@ Give me the numbers: 2,  3,12.45  ,1.2 3  ,92 , 0.2,  13 4.1
 The smallest number is: 0.2
 ```
 
-(Be avare, that `13 4.1` is 134.1, since our separators are commas, NOT spaces!)
+(Be aware, that `13 4.1` is 134.1, since our separators are commas, NOT spaces!)
 
 ## Homework 2
 
